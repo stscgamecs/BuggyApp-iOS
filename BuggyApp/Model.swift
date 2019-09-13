@@ -8,7 +8,6 @@
 
 import Foundation
 import SwiftyJSON
-
 struct Country: Codable {
   let name: String
   let alpha2Code: String
