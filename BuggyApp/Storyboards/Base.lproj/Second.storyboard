@@ -84,6 +84,7 @@
                                     </tableViewCell>
                                 </prototypes>
                                 <connections>
+                                    <outlet property="dataSource" destination="8rJ-Kc-sve" id="9g8-0c-93x"/>
                                     <outlet property="delegate" destination="8rJ-Kc-sve" id="da3-bz-R5l"/>
                                 </connections>
                             </tableView>
